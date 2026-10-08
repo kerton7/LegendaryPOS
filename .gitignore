@@ -1,0 +1,12 @@
+target/
+dist/
+/dist-build-*/
+/dist-input-*/
+/dist-mac-build-*/
+/dist-mac-input-*/
+frontend/dependency-reduced-pom.xml
+/data/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+.DS_Store
